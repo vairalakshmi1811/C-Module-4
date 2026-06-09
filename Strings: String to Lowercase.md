@@ -34,4 +34,4 @@ int main() {
 <img width="911" height="299" alt="image" src="https://github.com/user-attachments/assets/f0aa4959-7b95-45ab-9569-1ce482113892" />
 
 ## Result
-c program to convert a given string into lowercase using basic ASCII manipulation in C.
+c program to convert a given string into lowercase using basic ASCII manipulation in C is written.
